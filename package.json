@@ -1,0 +1,35 @@
+{
+  "name": "unified-husky-advanced",
+  "version": "1.0.0",
+  "description": "Advanced modular Husky configuration for Next.js and Vite projects",
+  "main": "install.js",
+  "bin": {
+    "setup-advanced-husky": "./install.js"
+  },
+  "files": [
+    "install.js",
+    "update.js",
+    "configs/",
+    "hooks/",
+    "scripts/",
+    "templates/"
+  ],
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "husky",
+    "git-hooks",
+    "nextjs",
+    "vite",
+    "react",
+    "typescript",
+    "advanced"
+  ],
+  "author": "NG",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/unified-husky-advanced.git"
+  }
+}
