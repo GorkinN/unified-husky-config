@@ -213,11 +213,11 @@ class AdvancedHuskyInstaller {
      * @constant
      * @type {Object}
      * @property {string} HUSKY - Версия Husky (8.0.3)
-     * @property {string} LINT_STAGED - Версия lint-staged (13.3.0)
+     * @property {string} LINT_STAGED - Версия lint-staged (16.2.7)
      */
     const FIXED_VERSIONS = {
       HUSKY: "8.0.3", // Последняя стабильная 8.x
-      LINT_STAGED: "13.3.0", // Последняя стабильная 13.x
+      LINT_STAGED: "16.2.7", // Последняя стабильная 13.x
     };
 
     /**
